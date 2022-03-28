@@ -2,7 +2,7 @@
 import * as React from 'react';
 
 
-export default function App () {
+export default function FirstComponent () {
   return (
     <div>
         <h1>Meu primeiro componente</h1>
